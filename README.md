@@ -1,5 +1,5 @@
-# FastAPI | Python
-Sample code base of the FastAPI | Python
+# Python FastAPI
+Sample code base of the FastAPI | Python Web framework
 
 
 ## Installtion using virtual envirment 
