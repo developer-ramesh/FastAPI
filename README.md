@@ -22,3 +22,5 @@ Start the uvicorn server
 Step 4. uvicorn main:app --reload
 
 ## Uses Database Postgresql
+
+<img src="https://raw.githubusercontent.com/developer-ramesh/FastAPI/main/screenshot.png">
