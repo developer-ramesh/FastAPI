@@ -21,4 +21,4 @@ Start the uvicorn server
 
 Step 4. uvicorn main:app --reload
 
-## Uses Database PostGres
+## Uses Database Postgresql
