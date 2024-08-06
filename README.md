@@ -1,4 +1,4 @@
-# FastAPI
+# FastAPI | Python
 Sample code base of the FastAPI | Python
 
 
