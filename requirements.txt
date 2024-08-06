@@ -1,0 +1,6 @@
+pip install fastapi
+pip install uvicorn
+pip install loguru
+
+pip install fastapi[all] sqlalchemy asyncpg psycopg2-binary
+
